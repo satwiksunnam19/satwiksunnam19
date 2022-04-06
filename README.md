@@ -1,4 +1,3 @@
-[![MasterHead](https://hakuva.tech/wp-content/uploads/2020/11/sales-manager-openings.gif)
 <h1 align="center">Hello There 👋, I'm Satwik Sunnam</h1>
 <h3 align="center">I'm a developer who experiments with new ideas on real-world problems.</h3>
 <img align="right" alt="DNN" width=800 src="https://scitechdaily.com/images/3D-Brain-Illustration.gif">
