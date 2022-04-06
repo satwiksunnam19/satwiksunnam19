@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as a [Deep Learning Intern at DigiTele Networks, Hyderabad](http://www.digitelenetworks.com/)
 
-- 🌱 I’m currently learning **NLP Textbook by Yoav Goldberg**
+- 🌱 I’m currently learning **NLP**
 
 - 👯 I’m looking to collaborate on **Deep Learning Hackathons and Projects**
 
