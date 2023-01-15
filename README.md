@@ -3,7 +3,7 @@
 <img align="right" alt="DNN" width=600 src="https://scitechdaily.com/images/3D-Brain-Illustration.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satwiksunnam19&label=Profile%20views&color=0e75b6&style=flat" alt="satwiksunnam19" /> </p>
 
-- 🔭 I’m currently working as a [Deep Learning Intern at DigiTele Networks, Hyderabad](http://www.digitelenetworks.com/)
+- 🔭 I’m currently working as a [Deep Learning Intern at Carneige Mellon University](https://www.cmu.edu/)
 
 - 🌱 I’m currently learning **NLP**
 
